@@ -42,3 +42,11 @@ Informações de contato do autor do projeto (e-mail, site, redes sociais).
 - [Twitter](https://twitter.com/seu-usuario)
 - [LinkedIn](https://www.linkedin.com/in/seu-usuario)
 - [GitHub](https://github.com/seu-usuario)
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
