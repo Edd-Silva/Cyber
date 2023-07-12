@@ -1,6 +1,4 @@
-# Cyber
-
-# Nome do Projeto
+# Cyber Security
 
 Repositório com alguns tutorias sobre algumas ferramentas.
 
@@ -39,9 +37,9 @@ Informações de contato do autor do projeto (e-mail, site, redes sociais).
 
 ### Redes Sociais
 
-- [Twitter](https://twitter.com/seu-usuario)
+<!-- [Twitter](https://twitter.com/seu-usuario) -->
 - [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [GitHub](https://github.com/seu-usuario)
+<!-- [GitHub](https://github.com/seu-usuario) -->
 
 Here is a simple footnote[^1].
 
