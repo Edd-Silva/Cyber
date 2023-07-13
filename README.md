@@ -26,7 +26,7 @@ Informações sobre a licença do projeto (por exemplo, MIT, GPL, etc).
 
 ## Contato
 
-Informações de contato do autor do projeto (e-mail, site, redes sociais).
+<!--Informações de contato do autor do projeto (e-mail, site, redes sociais).-->
 
 ![Descrição da imagem](caminho/para/imagem.png)
 
