@@ -38,7 +38,7 @@ Informações de contato do autor do projeto (e-mail, site, redes sociais).
 <!-- Redes Sociais -->
 
 <!-- [Twitter](https://twitter.com/seu-usuario) -->
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- [LinkedIn](https://www.linkedin.com/in/edjanio-silva-62141366/)
 <!-- [GitHub](https://github.com/seu-usuario) -->
 
 Here is a simple footnote[^1].
