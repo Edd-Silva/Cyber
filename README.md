@@ -10,7 +10,7 @@ Repositório com alguns tutorias sobre algumas ferramentas.
 
 ## Instalação
 
-Instruções para instalar e configurar as ferramentas utilizadas no projeto.
+Instruções para instalar e configurar as ferramentas utilizadas no projeto vai está descrito em cada tutorial sobre a mesma.
 
 ## Como Usar
 
@@ -30,12 +30,12 @@ Informações de contato do autor do projeto (e-mail, site, redes sociais).
 
 ![Descrição da imagem](caminho/para/imagem.png)
 
-### Botões
+<!-- Botões -->
 
 [![Botão 1](caminho/para/botao1.png)](link-para-pagina1)
 [![Botão 2](caminho/para/botao2.png)](link-para-pagina2)
 
-### Redes Sociais
+<!-- Redes Sociais -->
 
 <!-- [Twitter](https://twitter.com/seu-usuario) -->
 - [LinkedIn](https://www.linkedin.com/in/seu-usuario)
